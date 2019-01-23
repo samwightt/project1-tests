@@ -43,9 +43,9 @@ To verify the results of a test, you'll want to check out the **Issues** page on
 
 ## Some new test cases were added. How do I download them?
 
-Just pull the latest changes using `submodule update`:
+Just pull the latest changes from the remote using `submodule update`:
 
-    git submodule update
+    git submodule update --remote
 
 ## How do I contribute my own test cases?
 
