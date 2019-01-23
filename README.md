@@ -40,3 +40,18 @@ You'll have to run the tests indivdually and verify the results yourself. If you
 ## How do I verify the results?
 
 To verify the results of a test, you'll want to check out the **Issues** page on the Github repository. There you'll want to find the issue corresponding to the specific test case. Each issue will contain how to run the test case, the expected output, and a set of inputs with expected outputs. You can verify these against your own code and see if there are any problems.
+
+## How do I contribute my own test cases?
+
+To contribute your own test cases, you'll need to submit a pull request on Github. [See this link to learn how to do so.](http://oss-watch.ac.uk/resources/pullrequest) You'll need a Github account, as well as a copy of your forked version of the repository (click 'Fork' at the top). Download the forked directory to your computer like so (make sure you're not in your project directory!):
+
+    git clone https://github.com/yourusernamehere/project1-tests
+    cd project1-tests
+
+Now, add any of your test cases to the directory. Make sure to rename them using the numbering scheme (test#.txt, where # is the next largest number). Last, commit the files and push:
+
+    git add .
+    git commit -m "Added test case #."
+    git push origin master
+
+Finally, submit a pull request to this repostitory, along with some inputs and expected outputs. Once you do that, your submission will be reviewed, an issue will be created for your test case, and the commit will be merged into the repository!
