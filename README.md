@@ -7,8 +7,6 @@ This is a Git repository for UA CS101 students to collaborate on test cases for 
 
 You can also submit your own test cases along with expected results so that other people can verify it with their implementation. See below for how to do this.
 
-The best part 
-
 ## Cool! How do I use this?
 
 First, you'll need to install Git on your computer. Git is a version management system that allows you to keep a timeline of all of your file edits. Think of it like undo/redo, but for your codebase. If you accidentally save a change that you didn't mean to, you're able to undo it by reverting to a previous version. [Here's how to install Git for your platform.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -61,3 +59,7 @@ Now, add any of your test cases to the directory. Make sure to rename them using
     git push origin master
 
 Finally, submit a pull request to this repostitory, along with some inputs and expected outputs. Once you do that, your submission will be reviewed, an issue will be created for your test case, and the commit will be merged into the repository!
+
+## Help! I'm having trouble with something!
+
+If you're having trouble with anything, don't hesitate to reach out to me. You can reach me in the CS 101 GroupMe, or you can just make a new issue here. Before you reach out, make sure to look through the issues here to see if the question hasn't been asked already (just to lower question volume as much as possible). After that, ask away!
