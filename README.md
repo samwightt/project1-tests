@@ -61,3 +61,7 @@ Now, add any of your test cases to the directory. Make sure to rename them using
     git push origin master
 
 Finally, submit a pull request to this repostitory, along with some inputs and expected outputs. Once you do that, your submission will be reviewed, an issue will be created for your test case, and the commit will be merged into the repository!
+
+## Help! I'm having trouble with something!
+
+If you're having trouble with anything, don't hesitate to reach out to me. You can reach me in the CS 101 GroupMe, or you can just make a new issue here. Before you reach out, make sure to look through the issues here to see if the question hasn't been asked already (just to lower question volume as much as possible). After that, ask away!
