@@ -1,6 +1,13 @@
 # Project 1 Tests
 Test cases for UA CS101 Project 1.
 
+# Important Note about UA's Code of Academic Conduct
+Under no circumstances should **any of your project code be attached to any of the test cases you submit here**. Code of any kind **should not be posted in any of the issues, wiki, projects, or other parts of this repo**. This is **against UA's Code of Academic Conduct**. All Academic Conduct violations will be reported to the appropriate authorities.
+
+Again, *just one last time so that we're clear*: **you should not include any code in any test cases, commits, pull requests, issues, wiki edits, issue comments, commit comments, etc.** This repo is **solely** for test cases and output results; you are not allowed to discuss or share anything about **how you acheived those results**, only about the results themselves. Any content infringing this **will be removed, and you will be reported to our professor and the Office of Academic Affairs**.
+
+**I do not condone breaking the Code of Academic Conduct. The purpose of this repo is to help students verify their results, and not to condone, promote, or allow cheating or plagiarism. I am not responsible for any negative repercussions you may face if you break this policy.**
+
 ## What is this? 
 
 This is a Git repository for UA CS101 students to collaborate on test cases for Project 1. You can download and test any of the test cases here, and check the issues tab to find the expected results. If your results differ, you can post in the specific issue as well, and other students can help you fix the problem if possible. 
@@ -63,3 +70,7 @@ Finally, submit a pull request to this repostitory, along with some inputs and e
 ## Help! I'm having trouble with something!
 
 If you're having trouble with anything, don't hesitate to reach out to me. You can reach me in the CS 101 GroupMe, or you can just make a new issue here. Before you reach out, make sure to look through the issues here to see if the question hasn't been asked already (just to lower question volume as much as possible). After that, ask away!
+
+# Important
+
+**Please make sure you read the note at the top of this README.** It is **extremely** important that you know that cheating will **not** be tolerated.
