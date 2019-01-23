@@ -7,8 +7,6 @@ This is a Git repository for UA CS101 students to collaborate on test cases for 
 
 You can also submit your own test cases along with expected results so that other people can verify it with their implementation. See below for how to do this.
 
-The best part 
-
 ## Cool! How do I use this?
 
 First, you'll need to install Git on your computer. Git is a version management system that allows you to keep a timeline of all of your file edits. Think of it like undo/redo, but for your codebase. If you accidentally save a change that you didn't mean to, you're able to undo it by reverting to a previous version. [Here's how to install Git for your platform.](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
